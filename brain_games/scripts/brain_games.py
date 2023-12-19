@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 def games(tex):
     print(tex)
 
